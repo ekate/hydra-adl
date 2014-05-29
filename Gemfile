@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # Add hydra
 gem 'hydra'
 
+# add Opionated metadata
+gem 'om'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.3'
 
